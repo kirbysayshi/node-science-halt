@@ -1,6 +1,6 @@
 {
   "name": "science-halt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Autobind a key to HALT IN THE NAME OF SCIENCE",
   "main": "index.js",
   "scripts": {
