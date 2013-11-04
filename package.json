@@ -1,0 +1,25 @@
+{
+  "name": "science-halt",
+  "version": "0.1.0",
+  "description": "Autobind a key to HALT IN THE NAME OF SCIENCE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kirbysayshi/node-science-halt.git"
+  },
+  "keywords": [
+    "halt",
+    "science",
+    "addEventListener",
+    "document",
+    "gameloop"
+  ],
+  "author": "Andrew Petersen <senofpeter@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbysayshi/node-science-halt/issues"
+  }
+}
